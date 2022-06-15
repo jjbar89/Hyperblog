@@ -6,3 +6,11 @@ estoy casado con Diana Barrera
 tengo 2 hijos 
 mi hija se llama Paula Barrera
 mi hijo Samuel Barrera
+
+//////////
+informacion de estudios
+
+hice mi bachillerato en confederacion suiza
+hice un tecnico en el juan bosco
+soy graduado como tecnologo de teinco
+
